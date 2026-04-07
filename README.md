@@ -67,8 +67,4 @@
 
 ---
 
-## 🔥 Quote
 
-<p align="center">
-  <i>"Code. Scale. Repeat. 🚀"</i>
-</p>
