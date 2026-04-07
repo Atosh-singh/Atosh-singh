@@ -18,21 +18,33 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (Badges 🔥)
+
+<p align="center">
 
 ### 🚀 Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,kafka" />
-</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis" />
+<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka" />
+
+<br/>
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,js" />
-</p>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
 
-### ⚙️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+<br/>
+
+### ⚙️ Dev Tools
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/Thunder%20Client-purple?style=for-the-badge" />
+
 </p>
 
 ---
@@ -51,9 +63,6 @@
 - 🔥 CRM System (RBAC, Admin Panel, Scalable Backend)
 - 🔥 ERP System (Inventory, Billing, Role Hierarchy)
 - 🔥 AI Tool (Voice Transcription & Summaries)
-
----
-
 
 ---
 
