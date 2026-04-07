@@ -18,43 +18,31 @@
 
 ---
 
-## 🧠 Tech Stack (Badges 🔥)
-
-<p align="center">
+## 🧠 Tech Stack
 
 ### 🚀 Backend & Databases
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis" />
-<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka" />
-
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,kafka" />
+</p>
 
 ### 🎨 Frontend
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,js" />
+</p>
 
-<br/>
-
-### ⚙️ Dev Tools
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/Thunder%20Client-purple?style=for-the-badge" />
-
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ---
 
-## 🧩 Libraries
+## 🧩 Libraries & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-purple?style=for-the-badge&logo=redux" />
-  <img src="https://img.shields.io/badge/Ant%20Design-blue?style=for-the-badge&logo=ant-design" />
-</p>
+- Redux Toolkit  
+- Ant Design (AntD)  
+- Postman  
+- Thunder Client  
 
 ---
 
@@ -69,7 +57,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/atosh-singh-jadon-9885731a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
