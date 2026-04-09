@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Atosh Singh</h1>
+<h1 align="center"> Atosh Singh</h1>
 
 <h3 align="center">Full Stack MERN Developer | Backend Engineer | System Design</h3>
 
